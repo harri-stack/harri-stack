@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Harrison 👋
 
-<!--
-**harri-stack/harri-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in software development, game development and robotics.
 
-Here are some ideas to get you started:
+Currently learning:
+- C#
+- Git & GitHub
+- Software engineering
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Currently building a little game on Unity to add to this portfolio
