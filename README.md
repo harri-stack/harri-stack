@@ -9,7 +9,4 @@ Currently learning:
 - Networking
 
 ## Projects
-
-Currently building a little game on Unity to add to this portfolio
-
-Looking at building a web app to add to the porfolio
+Looking at building a web app to add to the portfolio - still working on what it'll be for though
