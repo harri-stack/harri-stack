@@ -11,3 +11,5 @@ Currently learning:
 ## Projects
 
 Currently building a little game on Unity to add to this portfolio
+
+Looking at building a web app to add to the porfolio
