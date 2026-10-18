@@ -9,4 +9,4 @@ Currently learning:
 - Networking
 
 ## Projects
-Looking at building a web app to add to the portfolio - still working on what it'll be for though
+Building a web app that tracks video game statistics and presents them to you in graphs and tables to analyze
